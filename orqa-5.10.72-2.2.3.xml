@@ -14,7 +14,7 @@
   <remote name="python2" fetch="https://git.openembedded.org"/>
   <remote name="rust" fetch="https://github.com/meta-rust"/>
   <remote name="yocto" fetch="https://git.yoctoproject.org/git"/>
-  <remote name="orqa" fetch="https://github.com/MatejPoljuha/meta-orqa"/>
+  <remote name="orqa" fetch="https://github.com/MatejPoljuha"/>
 
   <project name="meta-orqa" path="sources/meta-orqa" remote="orqa" revision="main" upstream="hardknott-5.10.72-2.2.3"/>
 
